@@ -10,7 +10,7 @@
 ✉️ &nbsp;You can shoot me an email at contact@stephangelibert.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [résumé](https://www.stephanegelibert.com/resume) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/ShinysArc/ShinysArc/master/assets/coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/ShinysArc/ShinysArc/master/assets/coding.gif" width="70%" align="right"/>
 
 ### 🛠 &nbsp;Skills
 
