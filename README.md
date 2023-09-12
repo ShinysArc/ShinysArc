@@ -8,7 +8,7 @@
 🎓 &nbsp;I'm currently studying Computer Engineering at EPITA in Paris, France.\
 ✍️ &nbsp;In my free time, I like to go out and take photos. I'm also fond of reading books.\
 ✉️ &nbsp;You can shoot me an email at contact@stephangelibert.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [résumé](https://www.stephanegelibert.com/files/resume.pdf) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [résumé](https://www.stephanegelibert.com/resume) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/ShinysArc/ShinysArc/master/assets/coding.gif" width="20%" align="right"/>
 
