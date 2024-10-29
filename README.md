@@ -5,7 +5,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Engineering at EPITA in Paris, France.\
+💻 &nbsp;I currently work at Amazon Web Services in the AWS IDEs team as a software engineer.\
+🎓 &nbsp;I'm a graduate from EPITA, a computer science school in Paris, France.\
 ✍️ &nbsp;In my free time, I like to go out and take photos. I'm also fond of reading books.\
 ✉️ &nbsp;You can shoot me an email at contact@stephangelibert.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [résumé](https://www.stephanegelibert.com/resume) for more details about me. I'm open to feedback and suggestions!
@@ -14,6 +15,7 @@
 
 ### 🛠 &nbsp;Skills
 
+![Go](https://img.shields.io/badge/Go-05122A.svg?&logo=go&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
